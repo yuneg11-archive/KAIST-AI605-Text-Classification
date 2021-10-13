@@ -1,0 +1,3 @@
+torch  # CUDA 10.2
+# torch==1.9.1+cpu   -f https://download.pytorch.org/whl/torch_stable.html  # CPU
+# torch==1.9.1+cu111 -f https://download.pytorch.org/whl/torch_stable.html  # CUDA 11.1
